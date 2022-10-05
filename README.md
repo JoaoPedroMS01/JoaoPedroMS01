@@ -7,7 +7,7 @@
 
 
 
-
+<br>
 <div align="center">
   <a href="https://github.com/JoaoPedroMS01">
   <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroMS01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
